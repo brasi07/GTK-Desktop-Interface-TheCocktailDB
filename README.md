@@ -12,7 +12,7 @@ This is a small graphic desktop application built with Python and utilizing the 
 
 - The application is internationalized and adapts to the user's _locale_ settings. An English translation is provided.
 
-- Both UI Design and Software Design are incorporated into this repository:
+- Both _UI Design_ and _Software Design_ are incorporated into this repository:
   -  The UI Design offers a brief description of the app's use cases.
   -   The Software Design includes two UML diagrams: a Class Diagram and a Sequence Diagram.
   
